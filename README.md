@@ -4,3 +4,7 @@ Android Chat aplikacija koja omogućava kreiranje naloga, uređivanje profila i 
 ![SLIKA](https://github.com/goranmaras/MoranChatApp/blob/master/SnipZaGitChatApp2.PNG)
 
 ## Struktura
+Firebase Cloud se koristi za sve backend operacije: spremanje poruka, slika, naloga, prijatelja ...
+
+
+---Aplikacija je u izradi i redizajnu izgleda---
