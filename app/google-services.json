@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "841218498641",
+    "firebase_url": "https://moranchatapp.firebaseio.com",
+    "project_id": "moranchatapp",
+    "storage_bucket": "moranchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841218498641:android:dc4153e064b607b4221870",
+        "android_client_info": {
+          "package_name": "com.goranm.moranchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841218498641-e5nbn4bq2r6n1oitgskk5pppsichb33b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf0-zFitmFbJFiAQ8MC51-qaCbug5zXFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841218498641-e5nbn4bq2r6n1oitgskk5pppsichb33b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
